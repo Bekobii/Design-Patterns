@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "src\Factor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "src\Prototype\Prototype.csproj", "{DEF0FAC9-8332-4474-8493-BE79C46F26B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "src\Singleton\Singleton.csproj", "{C7A6E2C5-3E12-4C24-813B-1219F23EE3B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,7 @@ Global
 		{C31D6E96-631D-4FE1-94B0-BCBEBBD9C730} = {F5E863F8-8B6A-4A44-A90F-96225802DC6A}
 		{AD34623D-A4B6-4685-9FED-4151501516F7} = {F5E863F8-8B6A-4A44-A90F-96225802DC6A}
 		{DEF0FAC9-8332-4474-8493-BE79C46F26B2} = {F5E863F8-8B6A-4A44-A90F-96225802DC6A}
+		{C7A6E2C5-3E12-4C24-813B-1219F23EE3B5} = {F5E863F8-8B6A-4A44-A90F-96225802DC6A}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C31D6E96-631D-4FE1-94B0-BCBEBBD9C730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -33,5 +36,9 @@ Global
 		{DEF0FAC9-8332-4474-8493-BE79C46F26B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEF0FAC9-8332-4474-8493-BE79C46F26B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEF0FAC9-8332-4474-8493-BE79C46F26B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A6E2C5-3E12-4C24-813B-1219F23EE3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A6E2C5-3E12-4C24-813B-1219F23EE3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A6E2C5-3E12-4C24-813B-1219F23EE3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A6E2C5-3E12-4C24-813B-1219F23EE3B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
